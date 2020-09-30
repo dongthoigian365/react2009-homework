@@ -1,4 +1,4 @@
-.collum-box {
+.column-box {
     height: 400px;
     width: 800px;
     background: gray;
@@ -12,7 +12,7 @@
     font-weight: bold;
 }
 
-.collum-content {
+.column-content {
     height: 400px;
     width: 300px;
     float: left;
